@@ -1,4 +1,4 @@
-![MasterHead](https://www.caunceohara.co.uk/wp-content/uploads/2022/08/copyright-myths-header-feature-image.jpg)
+![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/280939690/original/5b68e7a636a695efce39d4c13d333693721871c4/be-your-mern-stack-developer.jpg)
 <h1 align="center">Hi, I'm Ganesh Chaurasiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
