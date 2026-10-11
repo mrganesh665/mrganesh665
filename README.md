@@ -1,60 +1,64 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Ganesh%20Chaurasiya&fontSize=58&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Crafting%20fast%2C%20beautiful%20web%20experiences&descSize=20&descAlign=50&descAlignY=62&animation=fadeIn" alt="Ganesh Chaurasiya" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7c3aed&height=220&section=header&text=Ganesh%20Chaurasiya&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=React%20%7C%20React%20Native%20%7C%20Next.js%20%7C%20Node.js&descSize=18&descAlignY=60&animation=fadeIn"
+  width="100%"
+  alt="Ganesh Chaurasiya"
+/>
+
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=Full+Stack+JavaScript+Developer;Building+scalable+web+%26+mobile+apps;React+%7C+React+Native+%7C+Next.js;Turning+ideas+into+production-ready+products"
+  alt="Typing animation"
+/>
+
+<br/><br/>
 
 <a href="https://portfolio-ganesh-code.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&height=50&lines=MERN+Stack+Developer+%F0%9F%9A%80;Building+modern+apps+with+Next.js;Turning+ideas+into+clean+code+%E2%9C%A8;Based+in+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing animation" />
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=18122B" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/ganesh-066a76216">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=18122B" />
+</a>
+&nbsp;
+<a href="https://github.com/mrganesh665">
+<img src="https://img.shields.io/badge/GitHub-18122B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:mrganesh665@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=18122B" />
 </a>
 
 <br/><br/>
 
-<a href="https://portfolio-ganesh-code.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-A78BFA?style=for-the-badge&labelColor=1e1b4b" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/ganesh-066a76216"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b" alt="LinkedIn" /></a>
-<a href="mailto:mrganesh665@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" alt="Email" /></a>
-<a href="https://twitter.com/ganeshchau58520"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1e1b4b" alt="Twitter" /></a>
-<a href="https://instagram.com/ganesh00_2"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1b4b" alt="Instagram" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=mrganesh665&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/mrganesh665?label=Followers&style=flat-square&color=7c3aed&labelColor=1e1b4b" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=mrganesh665&label=Profile%20Views&color=7C3AED&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/mrganesh665?label=Followers&style=flat-square&color=7C3AED&labelColor=18122B" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════ ABOUT ═══════════════ -->
-<h2 align="center">✨ About Me</h2>
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 
-<table align="center">
-<tr>
-<td>
-
-```js
-const ganesh = {
-  role: "MERN Stack Developer",
-  location: "India 🇮🇳",
-  currentlyBuilding: "Next.js apps",
-  learning: ["TypeScript", "Advanced Next.js"],
-  askMeAbout: ["MERN", "Next.js", "React", "Node.js"],
-  funFact: "I turn coffee into components ☕",
-  portfolio: "portfolio-ganesh-code.vercel.app",
-  reachMe: "mrganesh665@gmail.com",
-};
-```
-
-</td>
-</tr>
-</table>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
 
-🔭 Currently working on **Next.js** &nbsp;·&nbsp; 💬 Ask me about **MERN & Next.js** &nbsp;·&nbsp; 📄 [My experience](https://drive.google.com/drive/folders/11PO7F0NAkQai3B7u9gxY3YXIv8dPY3vG?usp=drive_link)
+I'm a **Full Stack JavaScript Developer** focused on building modern web and mobile applications.
 
-</div>
+I work primarily with **React, React Native, Next.js, Node.js and TypeScript**,  
+with experience building REST APIs, admin panels, authentication systems and production-ready applications.
 
 <br/>
+
+<img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,typescript,nodejs,express,mongodb,postgresql&theme=dark" />
+
+</div>
 
 <!-- ═══════════════ PORTFOLIO ═══════════════ -->
 <h2 align="center">🚀 Portfolio</h2>
